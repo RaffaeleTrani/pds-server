@@ -202,6 +202,7 @@ void Server::sendFortune()
     }
     else
         printf("Tutte le connessioni arrivate\n");
+    puzzette;
 //! [5]
 }
 //! [8]
